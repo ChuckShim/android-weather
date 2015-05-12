@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">커피는 니가쏴</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_city_dbopen_helper">CityDBOpenHelperActivity</string>
+    <string name="title_activity_forecast">ForecastActivity</string>
+    <string name="title_activity_user_plus">UserPlusActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8492790844346365/3240625738</string>
+    <string name="title_activity_top_main">TopMainActivity</string>
+
+    <string name="title_section1">홈</string>
+    <string name="title_section2">날씨게임</string>
+    <string name="title_section3">해적룰렛게임</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
